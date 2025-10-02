@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-examples",
+  "version": "1.0.0",
+  "description": "The `examples/` directory contains step-by-step code samples ranging from basic Node.js usage to building complete servers.  \r You can explore:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitekun91/NodeJS-Examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitekun91/NodeJS-Examples/issues"
+  },
+  "homepage": "https://github.com/whitekun91/NodeJS-Examples#readme"
+}
