@@ -1,12 +1,19 @@
-## Examples
+# Node.js Examples with PostgreSQL
 
-The `examples/` directory contains step-by-step code samples ranging from basic Node.js usage to building complete servers.  
-You can explore:
+This repository contains step-by-step Node.js examples, ranging from simple basics to building full Express servers with PostgreSQL integration.
 
-- **Basics**: simple scripts, variables, and modules  
+## Features
+- **Basics**: simple scripts and core concepts  
 - **Modules & Path**: working with Node.js core modules  
 - **File System**: reading, writing, and managing files  
-- **Server**: creating an HTTP server  
+- **Server**: creating HTTP servers  
 - **Express**: building web applications with routing and middleware  
+- **PostgreSQL**: connecting and querying relational data  
 
-These examples are designed to help you gradually learn and apply Node.js features in real projects.
+## Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/nodejs-examples.git
+cd nodejs-examples
+npm install
